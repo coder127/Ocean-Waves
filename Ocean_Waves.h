@@ -1,9 +1,4 @@
-////////////////////////////////////////////////////////////////////////////////
-//
-// (C) Andy Thomason 2012-2014
-//
-// Modular Framework for OpenGLES2 rendering on multiple platforms.
-//
+
 
 /*This project is for simulating ocean waves in 3D using the summation of multiple sine waves*/
 
