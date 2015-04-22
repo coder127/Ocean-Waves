@@ -1,2 +1,2 @@
 # Ocean-Waves
-Code for ocean waves simulation project
+Code I've written for ocean waves simulation project (Does not include helper files)
